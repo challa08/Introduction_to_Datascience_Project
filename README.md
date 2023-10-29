@@ -1,1 +1,3 @@
-# Introduction_to_Datascience_Project
+# Overview of the dataset:
+This dataset provides information on electric vehicles (EVs) and their registration details. It includes data like the vehicle's unique ID (VIN), where it's registered (county, city, state), the year it was made, its manufacturer, model, and type of EV. Additionally, it shows whether the vehicle is eligible for clean alternative fuel programs and provides data on its electric range and price. Legislative district and a unique ID from the Department of Licensing are also included. This dataset is useful for understanding the distribution and features of EVs, assessing their eligibility for alternative fuel incentives, and exploring geographic patterns based on location and legislative districts. It's a valuable resource for researchers studying EV adoption and trends.
+# Code of this file
